@@ -24,7 +24,7 @@ int main()
     }
     catch(int a)
     {
-        cout<<"ffffffffffffffffffffffffffffffffffff";
+        cout<<"";
     }
     return 0;
 }
