@@ -7,7 +7,7 @@ int main()
     cin>>num;
     for(a=1; a<=10; a++)
     {
-        cout<<endl<<num*a;
+        cout<<endl<<num<<"*"<<a<<"="<<num*a;
     }
     return 0;
 }
